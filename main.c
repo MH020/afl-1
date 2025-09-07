@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "hamming.h"
+#include "hammering.h"
 
 int main(void) {
     char dna1[] = "GAGCCTACTAACGGGAT";
